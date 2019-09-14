@@ -1,0 +1,61 @@
+ /*comment no one will see*/		
+ body {
+ 	background-color: rgb(255 255 255);	
+ 	color: green;
+ 	font-size: 25px;
+ 	font-family: 'Roboto, sans-serif'	
+ 	font-weight: 300;	
+ 	margin: 0;
+
+ 	/* background-image: url("https://images.unsplash.com/photo-1558452337-ca6e53836504?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=60");*/
+ }
+
+#banner {
+	text-align: center;
+	background-image: url(https://images.unsplash.com/photo-1564951434112-64d74cc2a2d7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1268&q=80);
+	background-size: cover;
+	padding: 100px;
+	color: white;	
+	text-shadow: 1px 1px 5px grey;
+}
+
+#margin {
+	color: white;
+	font-size: 50px;	
+}
+
+ p {
+ 	font-family:'Roboto', sans-serif;
+ 	font-weight: 300
+ }
+
+ h1 {
+ 	font-family: 'Shadows into Light', cursive;
+ 	color: orange;
+	
+ }
+ a {
+ 	text-decoration: none;
+ }
+
+ a:hover {
+ 	color: yellow;
+ 	font-size: 15px;	
+ }
+
+ .footer {
+ 	background-color: black;
+    text-align: center;
+
+ }
+
+ .section  
+ p{
+ 	color: red;
+ }
+
+.container {
+	margin: 0px;
+	padding: 0px;
+
+}
